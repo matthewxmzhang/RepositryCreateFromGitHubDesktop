@@ -15,5 +15,8 @@ This is editted on server by person B. 10:02pm 16Jan. Meanwhile, person A is edi
 
 ——solve 2nd time conflict by keep below——
 
-During Client side person A is solving conflict, person B keep on edit this file again on 10:13 on server side and commit before Person A pull its client update.
+During Client side person A is solving conflict, person B keep on edit this file again on 10:13 on server side and commit before Person A pull its client 
+
+Server side update here to create conflict
+update.
 
