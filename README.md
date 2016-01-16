@@ -17,3 +17,5 @@ This is editted on server by person B. 10:02pm 16Jan. Meanwhile, person A is edi
 
 During Client side person A is solving conflict, person B keep on edit this file again on 10:13 on server side and commit before Person A pull its client update.
 
+
+Client A edit 10:44pm 16Jan
